@@ -1,6 +1,6 @@
 {
   "name": "a",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "> TODO: description",
   "author": "David Sparkles <david.sparkles@posteo.de>",
   "homepage": "",
@@ -17,7 +17,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "b": "^0.0.0",
+    "b": "^0.0.1",
     "change-case": "^3.1.0"
   }
 }

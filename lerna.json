@@ -1,0 +1,12 @@
+{
+  "command": {
+    "publish": {
+      "ignoreChanges": "example"
+    }
+  },
+  "packages": [
+    "packages/*",
+    "example"
+  ],
+  "version": "0.0.0"
+}
